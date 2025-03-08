@@ -1,5 +1,5 @@
 document.getElementById("gotohome").addEventListener('click', function(){
-    window.location.href = "public.html"
+    window.location.href = "index.html"
 })
 
 
